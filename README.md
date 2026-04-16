@@ -72,7 +72,6 @@
 ## 👤 Author (작성자)
 - **손수호 (Sooho Sohn)**
 - 📧 Email: [zxcvkk97@naver.com]
-- 🐙 GitHub Profile: [https://github.com/soohosohn94/]
 
 
 ---
