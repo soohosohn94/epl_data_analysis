@@ -70,8 +70,10 @@
 ---
 
 ## 👤 Author (작성자)
-- **User Name** (Your Portfolio Link / Email)
-- [LinkedIn Profile] | [Blog/Portfolio]
+- **손수호 (Sooho Sohn)**
+- 📧 Email: [zxcvkk97@naver.com]
+- 🐙 GitHub Profile: [https://github.com/soohosohn94/]
+
 
 ---
 
